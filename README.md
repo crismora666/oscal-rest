@@ -6,7 +6,7 @@ The _OSCAL REST OpenAPI Specification_ addresses OSCAL XML, JSON and YAML conten
 
 The _OSCAL REST OpenAPI Specification_ is expressed using [OpenAPI](https://www.openapis.org/) 3.1.
 
-For more information, vist and bookmark [https://docs.oscal.io/docs/oscal-rest-openapi](https://docs.oscal.io/docs/oscal-rest-openapi)
+For more information, visit and bookmark [https://docs.oscal.io/docs/oscal-rest-openapi](https://docs.oscal.io/docs/oscal-rest-openapi)
 
 ## Conventions and Organization
 
